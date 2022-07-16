@@ -1,0 +1,5 @@
+_pycache_
+encrypted_data.bin
+private_key.pem
+public_key.pem
+database.ini
